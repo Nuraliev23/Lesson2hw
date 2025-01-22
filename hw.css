@@ -64,5 +64,6 @@ margin-top: 20px;
     background-color: #EBF9F1;
     border-radius: 50px;
   text-align: center;
-  width: 20px;
+  width: 100px;
+  padding: 5px 0px;
 }
