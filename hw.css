@@ -75,3 +75,12 @@ margin-top: 20px;
     color: #CD6200;
     background-color: #FEF2E5;
 }
+.red{
+    border-radius: 50px;
+    text-align: center;
+    width: 90px;
+    padding: 5px 0px;
+    color: #A30D11;
+    background-color: #FBE7E8;
+
+}
