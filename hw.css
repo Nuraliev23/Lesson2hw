@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    margin-top: 30px;
+    width: 90%;
+}
+.all{
+    margin: auto;
+    margin-top: 30px;
+    width: 90%;
+}
+.menu{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.menu input{
+    border-radius: 10px;
+    padding: 7px;
+}
+.but button{
+    color: white;
+    background-color: #fff;
+    background-color: #624DE3;
+    padding: 7px;
+    border: none;
+    border-radius: 5px;
+}
+table{
+    padding-top: 30px;
+width: 90%;
+margin: auto;
+}
+tr{
+    padding-bottom: 20px;
+}
+th {
+    width: 140px;
+    padding-bottom: 20px;
+    text-align: start;
+}
+td{
+    padding-bottom: 20px;
+    width: 250px;
+margin-top: 20px;
+}
+.sec1{
+    display: flex;
+    gap: 15px;
+    align-items: center;
+}
+.icons{
+    display: flex;
+    gap: 15px;
+}
+.gray{
+    color: #1F9254;
+    background-color: #EBF9F1;
+    border-radius: 50px;
+  text-align: center;
+  width: 20px;
+}
